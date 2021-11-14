@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\OP\Vjezba_1\Vjezba_1\main.cpp(70,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\OP\Vjezba_1\Vjezba_1\main.cpp(72,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Vjezba_1.vcxproj -> C:\OP\Vjezba_1\Debug\Zadatak2.exe

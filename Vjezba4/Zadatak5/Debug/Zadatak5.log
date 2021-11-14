@@ -1,0 +1,3 @@
+﻿  main5.cpp
+C:\OP\Vjezba4\Zadatak5\main5.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Zadatak5.vcxproj -> C:\OP\Vjezba4\Debug\Zadatak5.exe
